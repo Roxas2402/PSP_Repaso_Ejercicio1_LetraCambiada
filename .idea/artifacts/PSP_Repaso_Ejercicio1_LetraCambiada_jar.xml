@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PSP_Repaso_Ejercicio1_LetraCambiada:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PSP_Repaso_Ejercicio1_LetraCambiada_jar</output-path>
+    <root id="archive" name="PSP_Repaso_Ejercicio1_LetraCambiada.jar">
+      <element id="module-output" name="PSP_Repaso_Ejercicio1_LetraCambiada" />
+    </root>
+  </artifact>
+</component>
